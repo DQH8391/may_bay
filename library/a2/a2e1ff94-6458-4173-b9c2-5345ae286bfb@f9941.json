@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "logo2-removebg-preview",
+    "atlas": "",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 399,
+      "height": 143
+    },
+    "offset": {
+      "x": -1.5,
+      "y": 2.5
+    },
+    "originalSize": {
+      "width": 402,
+      "height": 148
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "a2e1ff94-6458-4173-b9c2-5345ae286bfb@6c48a",
+    "packable": true
+  }
+}

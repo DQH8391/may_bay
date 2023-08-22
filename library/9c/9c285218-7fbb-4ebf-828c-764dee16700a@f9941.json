@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "th-removebg-preview",
+    "atlas": "",
+    "rect": {
+      "x": 49,
+      "y": 57,
+      "width": 376,
+      "height": 44
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 474,
+      "height": 158
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "9c285218-7fbb-4ebf-828c-764dee16700a@6c48a",
+    "packable": true
+  }
+}
